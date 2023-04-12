@@ -44,4 +44,4 @@ teach() {
 }
 
 const teacher1 = new TeacherRobot('2 hours', 'Web development')
-const teacher2 = new TeacherRobot('1 hour', 'AP environmental science')
+const teacher2 = new TeacherRobot('1.5 hour', 'AP environmental science')
